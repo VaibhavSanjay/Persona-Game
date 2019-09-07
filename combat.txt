@@ -1,0 +1,16 @@
+Starting Off
+When you engage in combat, players and enemies with highest agilities go first. If there are conflicts in agility, roll to see who goes first.
+Searching For An Attack
+When it's your turn to attack, search for the attack that you want to use. If you don't remember what your attacks are, use `rp!library <element>` to search for attacks from your element. You can also use `rp!library <element> <attack>` to specifically look at an attack. 
+Attacking Enemies
+In the client, type the attack you want to use followed by "->" and then the enemy you want to attack. Then you can roll for your accuracy (Check your accuracy and attack power with `rp!stats`). If your number is below your crit stat, you have done a critical attack which does 1.2x damage and downs the enemy. Crit attacking a downed enemy deals 1.5x damage. The enemy will then perform an evasion roll. Remember to add any status effects into account for your attacks (For example being downed means 1.2x more damage). In order to help you with the math, a command `rp!calc` can be used.
+Evading Attacks
+When an enemy attacks you, roll to check if you evade the attack. If an enemy did a critical attack, you only evade that attack if your evasion roll is below your crit evade stat. Remember any status effects that were inflicted on you from that attack.
+Finishing A Fight
+There are three ways to finish a fight: Sparing the enemies, finishing off all enemies, or running from battle. 
+Sparing Enemies
+If an enemy wants to be spared, it will make a deal with you. You can choose to listen to this deal, and if you do the enemy will tell you it. It is up to you to decide whether to accept the deal and let the enemy go free or just continue the battle. 
+Defeating Enemies
+Defeating all enemies in a fight will give you EXP, yen, and any items dropped.
+Fleeing battle
+The party leader can start the flee option by sending "|> escape" when it is their turn (All party members must agree). If this happens, Hatsumomo will attempt to find and opening for the party. This may take a few turns, but once it happens everyone can escape. If you escape, you gain EXP for all enemies you killed but nothing else. Additionally, you can escape on your own if you wish. Doing so will not give you any EXP and you are out of the fight.

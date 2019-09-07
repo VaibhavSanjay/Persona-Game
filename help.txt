@@ -1,0 +1,85 @@
+The prefix for this bot is `rp!`
+Help - `rp!help`
+Get a list of all the commands of this bot.
+Help - `rp!help <command>`
+Get specific help for a certain command.
+Help - `rp!guide <section>`
+Shows a guide for using this bot for the PRP. Use the section argument to specify a specific section you want to look at.
+PRP Library - `rp!library <element>`
+This will give you the stats and moves for that element.
+PRP Library - `rp!library <element> <move>`
+This will give you the stats for a certain move.
+PRP Stat Data - `rp!lvlstats <level>`
+This command will give stats for each class in the form hp/sp. Argument is an integer representing the player level you would like to know more about.
+PRP Stat Data - `rp!ptstats <points>`
+This command will output the individual stats of things like str and agi based on the point value. Argument is an integer representing the point amount you would like to know more about.
+PRP Stat Data - `rp!rankstats <rank>` **MOD ONLY**
+This command is to get the point values for raising a certain stat. The bot will DM you the numbers so that the players can't see. :eyes:
+PRP Player Data - `rp!createchar`
+Doing this command will start a series of questions about your character. The bot will store this information for you so that you can reference it in the future. Questions include things such as your character's name, element, and side. You have a 30 second time limit for each question before the bot times out. Before using this command, have a picture and a description for your character ready to just be pasted in where they are asked for. Finishing this command will allow you to do other commands such as `rp!stats` and `rp!reqlvl`
+PRP Player Data - `rp!stats <optional arg1> <optional arg 2>`
+This command will give the stats for a person's character. With no arguments, the bot will give the stats for you character if it has been created. If you @ someone with this command, that will give the stats of the person you @'d. Typing this command and the full name of someone's character separated by spaces will give you the stats for that character.
+PRP Request - `rp!reqlvl`
+Doing this command will add you to a list of people who are requesting a level up.
+PRP Request - `rp!reqlist`
+This command allows you to see the list of people who are requesting a level up and what time they requested it. (The time is in UTC because we don't have  a common time zone <:emauh:559193530187382788> )
+PRP Request - `rp!reqbuy <item1> <item2> ...`
+This command will let you buy all the items you list. This is just so Eurae knows what you are up to with your money.
+PRP Request - `rp!reqbuydel` **MOD ONLY**
+This command deletes all of the shopping requests in the request list.
+PRP Stat Changes - `rp!lvlup <user>` **MOD ONLY**
+This command will level up the user that is mentioned as an argument. The level up will be reflected in your stats. This will also tell you which stat you leveled up as a bonus point. Only Eurae and I have the ability to grant level ups. (The only reason I can do it is because I need to debug. Eurae is the one who should be handling all level ups during gameplay.)
+PRP Player Data - `rp!allplayers`
+This command will show a list of all people who have character data stored by the bot. Basically, it shows all the people who used the command `rp!createchar`.
+PRP Searching - `rp!search <keyword1> <keyword2> ...`
+Search is a tool that will allow you to look for links that have been stored by the bot. An example could be ro type `rp!search wiki` and you would find all of the wiki pages that have been added to the bot.
+PRP Searching - `rp!addlink <link> <keyword1> <keyword2> ...`
+This command allows you to add a link to the links that are already stored by the bot. Use `rp!search` to search for them. Adding a link will give it an ID.
+PRP Searching - `rp!removelink <ID num>`
+Use this to remove a link by its ID.
+PRP Shops - `rp!shops <optionalarg1> <optionalar2> ...`
+Use this command to search for shops. Calling this command with no arguments will just list all of the shops that have been added. Click on the links to directly visit the shops.
+PRP Shops - `rp!addshop <link> <name>` **MOD ONLY**
+This command adds a shop to the list of shops.
+PRP Shops - `rp!removeshop <name>` **MOD ONLY**
+Removes a shop from the list of shops.
+PRP Stat Changes - `rp!addrank <rank> <pts> <name>` **MOD ONLY**
+Adds `pts` points to a character to the rank of the stat you choose. If a player levels up in their rank, the bot will say so.
+PRP Request - `rp!reqlistdel` **MOD ONLY**
+Deletes everything inside of the request list, including level and shop requests.
+Server Data - `rp!games`
+Displays what activity everyone in the server is doing.
+Help - `rp!combathelp <section>`
+Gets you help on how to fight. You can also look into specific sections of this guide.
+PRP Player Data - `rp!socialstats <user>` **MOD ONLY**
+This command gives you the social stats of a certain user. DMs you the numbers.
+PRP Fight - `rp!calc <args explained>`
+This command is a helper command for calculating the amount of damage that you would do with an attack. Using it *without arguments* will give you a list of all the attack multipliers for damage (miniscule, severe, etc.). Using *one argument* will search for the attack multiplier you put as the argument. Using *two arguments* is more interesting. The first argument will always be the attack multiplier, and the second argument will be a number. You can put in a regular number such as 30 or 55, but you can also put in special numbers which are MAP and SAP. This will take the MAP or SAP of your character and plug it into the formula. Adding a third argument will allow you to choose which character's MAP or SAP you want to use (for example `rp!calc light sap rin`).
+PRP Fight - `rp!phys <percent> <player/number>`
+This command gives you the amount of HP you should take off when you perform an attack that takes away from your HP. The first argument is the percentage of your total HP to take off, and the second is a number or a player to look at. If there is no second argument given the player is assumed to be the user of the command.
+PRP Fight - `rp!cstats <user>`
+Similar to `rp!stats`, except this command only gives you the information important to combat. This includes, SAP, MAP, level, HP, moveset, and more.
+PRP Fight - `rp!mem`
+Shows the memory of recent calc commands used.
+PRP Fight - `rp!clearmem`
+Clears the memory of recent calc commands used.
+Server Data - `rp!talkdata <user>`
+Shows a graph of the user's talking activity inside of the server. No argument shows the graph of the user who used the command. If someone used the command before, it will show their line relative to the line that showed up. The line that is created by this command will be darker and more clear. You may mention the user or just type their full username/nickname.
+Server Data - `rp!cleardata`
+This command will clear the graph created by `rp!talkdata.`
+Server Data - `rp!wordcloud <user>`
+Get a word cloud/collage of the words a user has sent in the server. Using this without specifying a user will give you your own cloud. You may mention the user or just type their full username/nickname.
+Steam Data - `rp!steamid <id>`
+Set your steam ID for the `rp!steam` command. Your ID must be set as the number (not the link)
+Steam Data - `rp!steam <user>`
+Get steam data for a user. This includes username, level, status, last online, and activity for all of your recent games. You may mention the user or just type their full username/nickname. To use this command, the user must have set their id with `rp!steamid.`
+Server Data - `rp!channeldata`
+Get a pie chart representing the amount of messages sent in each channel on the server. (Still a work in progress but useable)
+Databases - `rp!google <query>`
+Search google for a query. Displays the top 5 results and their links.
+Databases - `rp!animesearch <type> <query>`
+Search myanimelist.net for a certain anime, manga, or character. The first argument has to be anime, manga, or character. Then, you can follow with what you want to search for.
+Databases - `rp!animeupcoming <day>`
+Searches for anime episodes that are going to come out on a specified day of the week. If no day is specified, the command shows anime episodes coming out today.
+Databases - `rp!alphaAI`
+Sends a query to Wolfram Alpha's AI system. Shows the time the query took and the data that Wolfram Alpha sends back.
