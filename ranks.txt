@@ -1,0 +1,30 @@
+Knowledge
+Oblivious 0
+Learned 20
+Scholarly 47
+Encyclopedic 72
+Erudite 105
+Guts 
+Milquetoast 0
+Bold 6
+Staunch 16
+Dauntless 31
+Lionhearted 64
+Proficiency
+Bumbling 0
+Decent 8
+Skilled 21
+Masterful 38
+Transcendent 55
+Kindness
+Inoffensive 0
+Considerate 9
+Empathetic 28
+Selfless 56
+Angelic  82
+Charm
+Existent 0
+Head-turning 4
+Suave 32
+Charismatic 56
+Debonair 79

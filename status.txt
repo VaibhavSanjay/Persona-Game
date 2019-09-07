@@ -1,0 +1,39 @@
+Down
+Affected characters take increased damage, cannot evade and are exposed to attacks that may cause Dizziness. Downed characters recover from it when they take their turn. Downed characters also take 1.2 times more damage.
+Critical hit-Exploit weakness-Down Shot
+Burn
+Take damage after every action. Allows Technical damage from Wind Skills and Nuclear Skills.
+Fire Skills (rare chance)
+Freeze
+Unable to take actions. Allows Technical damage from Physical Skills and Nuclear Skills.
+Ice Skills (rare chance)
+Shock
+Unable to take actions. If you melee attack a shocked enemy, there is a slight chance you will become shocked. Allows Technical damage from Physical skills and Nuclear Skills.
+Electric Skills (rare chance)
+Dizzy 
+Attack accuracy greatly reduced. Allows Technical damage from any attack.
+Sledgehammer-Flash Bomb-Dazzler-Nocturnal Flash
+Forget
+Unable to use any Skill.
+Headbutt-Memory Blow-Makajama-Makajamaon
+Sleep
+Unable to take actions. HP and SP will slowly restore each turn. Attacking affected character will give Technical damage bonus, and remove the ailment.
+Dream Needle-Dormin Rush-Dormina-Lullaby
+Confuse
+Throw away money, use a healing item, throw away an item or do nothing. Allows Technical damage from Psychic Skills.
+Skull Cracker-Mind Slice-Pulinpa-Tentarafoo
+Fear
+High chance of ignoring commands. Will sometimes run from battle. Allows Technical damage from Psychic Skills.
+Terror Claw-Bloodbath-Titanomachia-Evil Touch-Evil Smile-Fear Gas-Tyrant's Fist
+Despair
+Unable to take actions. SP will decrease by 5%, and the character becomes incapacitated after 3 turns while in despair. Allows Technical damage from Psychic Skills.
+Negative Pile-Bad Beat-Ominous Words-Abysmal Surge-Dreadful Scream
+Rage
+Attack power greatly increases at the cost of defense, evasion, and accuracy. The character will not listen to orders and will automatically perform basic melee attacks. Allows Technical damage from Psychic Skills.
+Hysterical Slap-Oni Kagura-Taunt-Wage War-Arm of Destruction-Reverse Rub
+Brainwash
+Heal an enemy, attack an ally or use a support skill on an enemy. Allows Technical damage from Psychic Skills.
+Brain Shake-Brain Buster-Marin Karin-Brain Jack
+Hunger
+Greatly lowers damage of your attacks.
+Big Bang Challenge-Distorted Avarice-Stomach Blow-Famine's Breath-Famine's Scream

@@ -1,0 +1,392 @@
+Fire
+Arcanist
+Debuff 
+Deals heavy Fire damage while also disabling enemy buffs, with some healing abilities. Well rounded.
+- - Fire Ice
+0
+Agi
+Light fire damage to one foe. 10% chance of Burn.
+4 SP.
+2
+Dia
+Restore 20% HP to one ally.
+3 SP.
+5
+Dormina
+Inflict Sleep on one foe with a 70% chance.
+5 SP.
+9
+Tarunda
+Decrease one foe’s Attack Power for 3 turns.
+8 SP.
+12
+Maragi
+Light fire damage to all foes. 10% chance of Burn.
+10 SP.
+16
+Dekaja
+Negate all buff effects of all foes.
+10 SP.
+19
+Agilao
+Medium Fire damage to one foe. 10% chance of Burn.
+8 SP.
+23
+Fire Break
+Suppress innate Fire resistance of all foes for three turns.
+15 SP.
+26
+Diarama
+Restore 50% HP of one ally.
+6 SP.
+30
+Tentarafoo
+Inflict Confuse to all foes with a 50% chance.
+12 SP.
+33
+Fire Boost
+Strengthen Fire attacks by 25%
+Auto.
+Ice
+Bruiser
+Evasive
+Deals heavy Physical damage while also making the party more able to dodge and aim. Can counter Physical damage. Leans toward damage over support.
+- - Ice Fire
+0
+Bufu
+Light Ice damage to one foe. 10% chance of freeze.
+4 SP.
+2
+Cleave
+Light Physical damage to one foe. 
+6 HP%.
+5
+Sukukaja
+Buff agility of ally for 3 turns.
+8 SP.
+9
+Smash
+Medium Physical damage to one foe. 50% chance of dizzy.
+9% HP.
+12
+Sukunda
+Decrease 1 foe's Agility for 3 turns.
+8 SP.
+16
+Triple Down
+Light Gun damage to all foes, with each hit striking 1-3 times.
+16% HP.
+19
+Mabufu
+Light Ice damage to all foes. 10% chance of freeze.
+10 SP.
+23
+Counter
+10% chance of reflecting a physical attack.
+Auto.
+26
+Rising Slash
+Heavy Physical damage to one foe. Adds 50% Attack Power under Baton Pass.
+14% HP.
+30
+Bufula
+Medium Ice damage to one foe. 10% chance of freeze.
+8 SP.
+33
+Ice Boost
+Strengthen Ice attacks by 25%.
+Auto.
+Electric
+Bruiser
+Booster
+Deals severe Physical damage while also boosting the party's attack power, with an abundance of damaging skills. Not supportive, but a full attacker.
+- - Electric Wind
+0
+Zio
+Light Electric damage to one foe. 10% chance to shock.
+4 SP.
+2
+Lunge
+Light physical damage to one foe.
+5% HP.
+5
+Tarukaja
+Increase one ally’s Attack Power for 3 turns.
+8 SP.
+9
+Headbutt
+Medium Physical damage to one foe. 50% chance of forget.
+9% HP.
+12
+Adverse Resolve
+Increase critical rate by 50% when ambushed.
+Auto.
+16
+Rampage
+Light Physical damage to all foes, with each hit striking 1-3 times.
+13% HP.
+19
+Mazio
+Light Electric damage to all foes. 10% chance to shock.
+10 SP.
+23
+Bad Beat
+Medium Physical damage to all foes. 20% chance of despair.
+21% HP.
+26
+Assault Dive
+Heavy Physical damage to one foe. 
+13% HP.
+30
+Zionga
+Medium Electric damage to one foe. 10% chance to shock.
+8 SP.
+33
+Electric Boost
+Strengthen Electric attacks by 25%.
+Auto.
+Wind
+Healer
+Cleanser
+Deals medium Wind damage while being an amazing healer and status cleanser. It has the ability to revive allies. Nearly completely supportive.
+- - Wind Electric
+0
+Garu
+Light Wind damage to one foe. Technical damage: Burn.
+3 SP.
+2
+Dia
+Restore 20% HP to one ally.
+3 SP.
+5
+Patra
+Cure Dizzy, Forget, Sleep, and Hunger of one ally.
+4 SP.
+9
+Media
+Restore 20% HP of party.
+7 SP.
+12
+Lucky Punch
+Miniscule Physical damage to one foe, +50% critical rate.
+3% HP.
+16
+Magaru
+Light Wind damage to all foes. Technical damage: Burn.
+8 SP.
+19
+Me Patra
+Cure Dizzy, Forget, Sleep, and Hunger of party.
+8 SP.
+23
+Diarama
+Restore 50% HP to one ally. 
+6 SP.
+26
+Garula
+Medium Wind damage to one foe. Technical damage: Burn.
+6 SP.
+30
+Recarm 
+Revive one ally with 50% HP.
+8 SP.
+33
+Mediarama
+Restore 50% HP to party.
+12 SP.
+Nuclear
+Arcanist
+Cleanser
+Deals heavy Nuke damage while also boasting many cleansing effects. Well rounded.
+- - Nuclear Psychokinesis
+0
+Frei
+Light Nuclear damage to one foe. Technical damage: Burn, Freeze, and Shock.
+4 SP.
+2
+Cleave
+Light Physical damage to one foe. 
+6 HP%.
+5
+Rakunda
+Decrease one foe's Defense for 3 turns.
+8 SP.
+9
+Cornered Fang
+Medium Physical damage to one foe. More powerful when being ambushed.
+10% HP.
+12
+Mafrei
+Light Nuclear damage to all foes. Technical damage: Burn, Freeze, and Shock.
+10 SP.
+16
+Vajra Blast
+Medium Physical damage to all foes.
+14% HP.
+19
+Freila
+Medium Nuclear damage to one foe. Technical damage: Burn, Freeze, and Shock.
+8 SP.
+23
+Energy Shower
+Cure Confuse, Fear, Despair, Rage, and Brainwash of party.
+8 SP.
+26
+Flash Bomb
+Medium Physical damage to all foes. 20% chance of Dizzy.
+19% HP.
+30
+Dekunda
+Negate all debuff effects of party.	
+10 SP.
+33
+Nuke Boost
+Strengthen Nuke attacks by 25%.
+Auto.
+Psychokinesis
+Arcanist
+Guardian
+Deals medium Psy damage with many party-improving effects, dabbling in Cleansing while increasing the party's defenses. Built tanky with supporting abilities.
+- - Psychokinesis Nuclear
+0
+Psi
+Light Psy damage to one foe. Technical damage: Mental Ailments.
+4 SP.
+2
+Cleave
+Light Physical damage to one foe.
+6% HP.
+5
+Rakukaja
+Increase one ally's Defense for 3 turns.
+8 SP.
+9
+Patra
+Cure Dizzy, Forget, Sleep, and Hunger of one ally.
+4 SP.
+12
+Mapsi 
+Light Psy damage to all foes. Technical damage: Mental Ailments. 
+10 SP.
+16
+Endure
+Survive one fatal blow with 1 HP remaining.
+Auto.
+19
+Psio
+Medium Psy damage to one foe. Technical damage: Mental Ailments.
+8 SP.
+23
+Redirection
+Foes have an 80% chance to target you over other allies for 3 turns.  
+16 SP.
+26
+Psi Break
+Suppress innate Psy resistance of all foes for 3 turns.
+15 SP.
+30
+Tetrakarn
+Erect shield on one ally to repel one Physical or Gun attack.
+36 SP.
+33
+Makarakarn
+Erect shield on one ally to repel one magical attack.
+36 SP.
+Bless
+Arcanist
+Crowd Control
+Deals severe Bless damage to crowds while owning abilities to insta-kill and counter enemies. Can be much more strong when surrounded by said crowd, and can boost the Bless attacks of its own greatly down the line. Not supportive in the least, but strong.
+- Bless Electric Curse/Gun
+0
+Kouha
+Light Bless damage to one foe.
+4 SP.
+2
+Cleave
+Light Physical damage to one foe.
+6% HP.
+5
+Marin Karin
+Inflict Brainwash to one foe with a 70% chance.
+5 SP.
+9
+Hama
+15% chance of instantly killing one foe.
+8 SP.
+12
+Makouha
+Light Bless damage to all foes. 
+10 SP.
+16
+Pressing Stance
+Reduce hit rate by 66% of all incoming attack when being ambushed.
+Auto.
+19
+Kouga
+Medium Bless damage to one foe.
+8 SP.
+23
+Drain Essence
+Drains 10% of foe’s max HP.
+18 SP.
+26
+Mahama
+Small chance of instantly killing all foes.	
+18 SP.
+30
+Counter
+10% chance of reflecting Physical attacks.
+Auto.
+33
+Concentrate
+Multiply user's next magical attack damage by 2.5.
+15 SP.
+Curse
+Bruiser
+Isolater
+Deals severe Curse and Physical damage to a single, isolated target while having abilities that are made to deal with one foe at a time. That includes taunts, ailments, and heavy damage skills that can only target one at a time. Is great against one, but is difficult against many.
+Curse - - Bless/Ice
+0
+Eiha
+Light Curse damage to one foe. 
+4 SP.
+2
+Lunge
+Light Physical damage to one foe.
+5% HP.
+5
+Taunt
+Inflict Rage to one foe with a 70% chance. 
+5 SP.
+9
+Snap
+Medium Gun damage to one foe.
+9% HP.
+12
+Counterstrike
+15% chance of reflecting Physical attacks.
+Auto.
+16
+Stagnant Air
+Increase susceptibility to all ailments of all foes and allies by 15%.
+5 SP.
+19
+Eiga
+Medium Curse damage to one foe.
+8 SP.
+23
+Endure
+Survive one fatal blow with 1 HP remaining.
+Auto.
+26
+Negative Pile
+Heavy Physical damage on one foe. 50% chance to inflict despair.
+12% HP.
+30
+Eigaon
+Heavy Curse damage to one foe.
+12 SP.
+33
+Charge
+Multiply user's next Physical or Gun attack damage by 2.5.
+15 SP.

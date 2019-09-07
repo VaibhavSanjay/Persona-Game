@@ -1,0 +1,13 @@
+discord.py
+flask
+python-dotenv
+firebase-admin
+requests
+beautifulsoup4
+matplotlib==3.1.1
+schedule==0.6.0
+wordcloud==1.5.0
+steamwebapi==0.1.3
+squarify==0.4.3
+google==2.0.2
+wolframalpha==3.0.1
